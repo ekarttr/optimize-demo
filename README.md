@@ -17,7 +17,7 @@ The goal of this article is to serve as guide to get you started on Optimize for
 
 ### Create an A/B test
 
-An A/B test is a randomized experiment using two or more variants of the same web page (A and B). Variant A is the original and variant B through n each contain at least one element that is modified from the original. [Read more] (https://support.google.com/optimize/answer/6211930?hl=en) about A/B tests.
+An A/B test is a randomized experiment using two or more variants of the same web page (A and B). Variant A is the original and variant B through n each contain at least one element that is modified from the original. [Read more](https://support.google.com/optimize/answer/6211930?hl=en) about A/B tests.
 
 <img src="https://github.com/ekarttr/optimize-demo/blob/master/img/img12.png?raw=true">
 
