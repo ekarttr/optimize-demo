@@ -1,11 +1,11 @@
 # Hands-on Experimentation Guide with Google Optimize 
 
 [1. Basic optimize setup](https://github.com/ekarttr/optimize-demo/blob/master/README.md#create-variants-you-wish-to-experiment-with)
+[2. Getting started with an experiment](https://github.com/ekarttr/optimize-demo/blob/master/README.md#create-variants-you-wish-to-experiment-with)
+[3. Creating variants to test](https://github.com/ekarttr/optimize-demo/blob/master/README.md#create-variants-you-wish-to-experiment-with)
+[4. Testing the experiment](https://github.com/ekarttr/optimize-demo/blob/master/README.md#create-variants-you-wish-to-experiment-with)
+[5. Personalization with Google Optimize](https://github.com/ekarttr/optimize-demo/blob/master/README.md#create-variants-you-wish-to-experiment-with)
 
-2. Getting started with an experiment
-3. Creating variants to test
-4. Testing the experiment
-5. Personalization
 
 This is a demo site (https://ekarttr.github.io/optimize-demo/index.html) will be used to demonstrate Google Analytics and Optimize for site-testing and personalization. 
 
