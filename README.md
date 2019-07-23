@@ -5,8 +5,10 @@ This is a demo site (https://ekarttr.github.io/optimize-demo/index.html) will be
 Link Google Analytics and Select objective to optimize
 
 
-##Create Variants you wish to experiment with:  
-###Variant #1: Change text, edit HTML, remove links
+## Create Variants you wish to experiment with
+
+### Variant #1: Change text, edit HTML, remove links
+
 <img src="https://github.com/ekarttr/optimize-demo/blob/master/img/img1.gif?raw=true">
 Variant #2: Resize and move content 
 <img src="https://github.com/ekarttr/optimize-demo/blob/master/img/img2.gif?raw=true">
