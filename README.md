@@ -1,12 +1,13 @@
 # Hands-on Experimentation Guide with Google Optimize 
 
-1. [Getting started with an experiment](#create-variants-you-wish-to-experiment-with)
-2. [Creating variants to test](#create-variants-you-wish-to-experiment-with)
-3. [Testing the experiment](#create-variants-you-wish-to-experiment-with)
-4. [Personalization with Google Optimize](#create-variants-you-wish-to-experiment-with)
+1. [Getting started](#getting-started)
+2. [Experimentation](#experimentation)
+3. [Testing and reporting](#testing-and-reporting)
+4. [Personalization](#personalization)
 
 The goal of this article is to serve as guide to get you started on Optimize for exprimentation and personalization. For the purpose of the demo I will be using a [demo site](https://ekarttr.github.io/optimize-demo/index.html) that I got my hands on (I don't know who you are, but thank you for the the demo site!) to demonstrate experimentation and personalization using Google Optimize along with Google Analytics.
 
+## Getting Started
 
 ### Create an experiment
 <img src="https://github.com/ekarttr/optimize-demo/blob/master/img/img11.png?raw=true">
@@ -17,7 +18,7 @@ An A/B test is a randomized experiment using two or more variants of the same we
 
 <img src="https://github.com/ekarttr/optimize-demo/blob/master/img/img12.png?raw=true">
 
-## Create variants to test
+## Experimentation
 
 ### Variant 1: Change text, edit HTML, remove links
 
@@ -54,6 +55,8 @@ The final URL that was used to test: https://ekarttr.github.io/optimize-demo/ind
 ### Launch the experiment
 <img src="https://github.com/ekarttr/optimize-demo/blob/master/img/img5.gif?raw=true">
 
+## Testing and reporting
+
 ### Test the experiment
 <img src="https://github.com/ekarttr/optimize-demo/blob/master/img/img9.gif?raw=true">
 
@@ -64,7 +67,7 @@ The final URL that was used to test: https://ekarttr.github.io/optimize-demo/ind
 ### Reporting in Google Analytics 
 <img src="https://github.com/ekarttr/optimize-demo/blob/master/img/img14.png?raw=true">
 
-## Personalize
+## Personalization
 <img src="https://github.com/ekarttr/optimize-demo/blob/master/img/img10.gif?raw=true">
 
 
