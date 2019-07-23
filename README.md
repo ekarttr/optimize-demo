@@ -1,7 +1,6 @@
 # Hands-on Experimentation Guide with Google Optimize 
 
 1. [Basic optimize setup](#create-variants-you-wish-to-experiment-with)
-
 2. [Getting started with an experiment](#create-variants-you-wish-to-experiment-with)
 
 [3. Creating variants to test](#create-variants-you-wish-to-experiment-with)
