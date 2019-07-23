@@ -5,7 +5,7 @@
 3. [Testing and reporting](#testing-and-reporting)
 4. [Personalization](#personalization)
 
-The goal of this article is to serve as guide to get you started on Optimize for exprimentation and personalization. For the purpose of the demo I will be using a [demo site](https://ekarttr.github.io/optimize-demo/index.html) that I got my hands on (I don't know who you are, but thank you for the the demo site!) to demonstrate experimentation and personalization using Google Optimize along with Google Analytics.
+The goal of this article is to serve as guide to get you started on Optimize for exprimentation and personalization. For the purpose of the demo I will be using a [demo site](https://ekarttr.github.io/optimize-demo/index.html) that I got my hands on (I don't know who created the demo site, but whoever you are - thank you!) to demonstrate experimentation and personalization using Google Optimize along with Google Analytics.
 
 ## Getting Started
 
@@ -19,6 +19,8 @@ An A/B test is a randomized experiment using two or more variants of the same we
 <img src="https://github.com/ekarttr/optimize-demo/blob/master/img/img12.png?raw=true">
 
 ## Experimentation
+
+Before diving into your first experiment you should identify a problem and create a hypothesis that's backed up by data. Start by identifying a problem that you want to solve. (Read more)[https://support.google.com/optimize/answer/6211930?hl=en] 
 
 ### Variant 1: Change text, edit HTML, remove links
 
