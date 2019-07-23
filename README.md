@@ -1,13 +1,20 @@
 # Hands-on Experimentation Guide with Google Optimize 
 
-1. [Basic optimize setup](#create-variants-you-wish-to-experiment-with)
-2. [Getting started with an experiment](#create-variants-you-wish-to-experiment-with)
-3. [Creating variants to test](#create-variants-you-wish-to-experiment-with)
-4. [Testing the experiment](#create-variants-you-wish-to-experiment-with)
-5. [Personalization with Google Optimize](#create-variants-you-wish-to-experiment-with)
+1. [Getting started with an experiment](#create-variants-you-wish-to-experiment-with)
+2. [Creating variants to test](#create-variants-you-wish-to-experiment-with)
+3. [Testing the experiment](#create-variants-you-wish-to-experiment-with)
+4. [Personalization with Google Optimize](#create-variants-you-wish-to-experiment-with)
 
+The goal of this article is to serve as guide to get you started on Optimize for exprimentation and personalization. For the purpose of the demo I will be using a [demo site](https://ekarttr.github.io/optimize-demo/index.html) that I got my hands on (I don't know who you are, but thank you for the the demo site!) to demonstrate experimentation and personalization using Google Optimize along with Google Analytics.
 
-This is a demo site (https://ekarttr.github.io/optimize-demo/index.html) that will be used to demonstrate experimentation and personalization using Google Optimize along with Google Analytics.
+### Start experiment
+<img src="https://github.com/ekarttr/optimize-demo/blob/master/img/img5.gif?raw=true">
+
+### Create an experiment
+<img src="https://github.com/ekarttr/optimize-demo/blob/master/img/img11.png?raw=true">
+
+### Create an A/B test
+<img src="https://github.com/ekarttr/optimize-demo/blob/master/img/img12.png?raw=true">
 
 ## Create variants to test
 
@@ -19,70 +26,44 @@ This is a demo site (https://ekarttr.github.io/optimize-demo/index.html) that wi
 
 <img src="https://github.com/ekarttr/optimize-demo/blob/master/img/img2.gif?raw=true">
 
+### Set up objectives
+
 <img src="https://github.com/ekarttr/optimize-demo/blob/master/img/img3.gif?raw=true">
-<img src="https://github.com/ekarttr/optimize-demo/blob/master/img/img4.gif?raw=true">
-<img src="https://github.com/ekarttr/optimize-demo/blob/master/img/img5.gif?raw=true">
-<img src="https://github.com/ekarttr/optimize-demo/blob/master/img/img6.png?raw=true">
-<img src="https://github.com/ekarttr/optimize-demo/blob/master/img/img7.png?raw=true">
-<img src="https://github.com/ekarttr/optimize-demo/blob/master/img/img8.gif?raw=true">
-<img src="https://github.com/ekarttr/optimize-demo/blob/master/img/img9.gif?raw=true">
-<img src="https://github.com/ekarttr/optimize-demo/blob/master/img/img10.gif?raw=true">
-<img src="https://github.com/ekarttr/optimize-demo/blob/master/img/img11.png?raw=true">
-<img src="https://github.com/ekarttr/optimize-demo/blob/master/img/img12.png?raw=true">
+
+### Selecting a custom objective
 <img src="https://github.com/ekarttr/optimize-demo/blob/master/img/img13.png?raw=true">
+
+### Audience targeting using query parameters
+
+<img src="https://github.com/ekarttr/optimize-demo/blob/master/img/img4.gif?raw=true">
+
+Query parameter 1 = utm_source, variable = src_var, src_var = example.com
+Sample URL: https://ekarttr.github.io/optimize-demo/index.html?utm_source=example.com 
+
+Query parameter 2 = utm_medium, variable = med_var, src_var = referral
+Sample URL: https://ekarttr.github.io/optimize-demo/index.html?utm_medium=referral 
+
+This will ensure that only traffic coming from example.com as a referral (assuming the traffic is tagged properly) will be included in the experiment. 
+
+The final URL that was used to test: https://ekarttr.github.io/optimize-demo/index.html?utm_source=example.com&utm_medium=referral 
+
+### Google Analytics audience targeting (Optimize 360 feature)
+<img src="https://github.com/ekarttr/optimize-demo/blob/master/img/img8.gif?raw=true">
+
+### Test the experiment
+<img src="https://github.com/ekarttr/optimize-demo/blob/master/img/img9.gif?raw=true">
+
+### Reporting in Optimize
+<img src="https://github.com/ekarttr/optimize-demo/blob/master/img/img7.png?raw=true">
+<img src="https://github.com/ekarttr/optimize-demo/blob/master/img/img6.png?raw=true">
+
+### Reporting in Google Analytics 
 <img src="https://github.com/ekarttr/optimize-demo/blob/master/img/img14.png?raw=true">
 
-
-
-Create a custom objective:
-
-
-
-
-Create Experiment
+## Personalize
+<img src="https://github.com/ekarttr/optimize-demo/blob/master/img/img10.gif?raw=true">
 
 
 
-
-
-
-
-
-
-Audience Targeting 
-Audience Targeting using Query Parameter
-
-https://ekarttr.github.io/optimize-demo/index.html 
-https://ekarttr.github.io/optimize-demo/index.html?utm_source=example.com 
-https://ekarttr.github.io/optimize-demo/index.html?utm_medium=referral 
-https://ekarttr.github.io/optimize-demo/index.html?utm_source=example.com&utm_medium=referral 
 
  
-
-
-Start Experiment
-
-
-
-Reporting in Optimize
-
-
-
-
-
-Reporting in Analytics 360
-
-
-
-Optimize 360 Features: Target audiences created in Google Analytics
-
-
-
-Testing the experiment
-
-
-Personalization
-
-Each visitor is unique and engagement increases when you create personalized experiences. This article is an overview of personalization in Optimize.
-
-https://support.google.com/optimize/answer/9112930
