@@ -7,8 +7,6 @@
 
 The goal of this article is to serve as guide to get you started on Optimize for exprimentation and personalization. For the purpose of the demo I will be using a [demo site](https://ekarttr.github.io/optimize-demo/index.html) that I got my hands on (I don't know who you are, but thank you for the the demo site!) to demonstrate experimentation and personalization using Google Optimize along with Google Analytics.
 
-### Start experiment
-<img src="https://github.com/ekarttr/optimize-demo/blob/master/img/img5.gif?raw=true">
 
 ### Create an experiment
 <img src="https://github.com/ekarttr/optimize-demo/blob/master/img/img11.png?raw=true">
@@ -49,6 +47,9 @@ The final URL that was used to test: https://ekarttr.github.io/optimize-demo/ind
 
 ### Google Analytics audience targeting (Optimize 360 feature)
 <img src="https://github.com/ekarttr/optimize-demo/blob/master/img/img8.gif?raw=true">
+
+### Launch the experiment
+<img src="https://github.com/ekarttr/optimize-demo/blob/master/img/img5.gif?raw=true">
 
 ### Test the experiment
 <img src="https://github.com/ekarttr/optimize-demo/blob/master/img/img9.gif?raw=true">
