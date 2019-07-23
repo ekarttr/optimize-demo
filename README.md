@@ -1,11 +1,14 @@
 # Hands-on Experimentation Guide with Google Optimize 
-This is a demo site. It will be used to demonstrate Google Analytics and Optimize for site-testing and personalization. 
 
-Site: https://ekarttr.github.io/optimize-demo/index.html 
+This is a demo site (https://ekarttr.github.io/optimize-demo/index.html) will be used to demonstrate Google Analytics and Optimize for site-testing and personalization. 
 
 Link Google Analytics and Select objective to optimize
 
+
+##Create Variants you wish to experiment with:  
+###Variant #1: Change text, edit HTML, remove links
 <img src="https://github.com/ekarttr/optimize-demo/blob/master/img/img1.gif?raw=true">
+Variant #2: Resize and move content 
 <img src="https://github.com/ekarttr/optimize-demo/blob/master/img/img2.gif?raw=true">
 <img src="https://github.com/ekarttr/optimize-demo/blob/master/img/img3.gif?raw=true">
 <img src="https://github.com/ekarttr/optimize-demo/blob/master/img/img4.gif?raw=true">
@@ -32,12 +35,7 @@ Create Experiment
 
 
 
-STEP 2: Create Variant 
 
-Variant #1: Change text, edit HTML, remove links
-
-
-Variant #2: Resize and move content 
 
 
 
