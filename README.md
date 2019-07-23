@@ -47,9 +47,7 @@ Query parameter 1 = utm_source, variable = src_var, src_var = example.com. This 
 Query parameter 2 = utm_medium, variable = med_var, src_var = referral. This corresponds to:
 [URL?utm_medium=referral](https://ekarttr.github.io/optimize-demo/index.html?utm_medium=referral) 
 
-This will ensure that only traffic coming from example.com as a referral (assuming the traffic is tagged properly) will be included in the experiment. 
-
-The final URL that was used to test corresponds to:: [URL?utm_source=example.com&utm_medium=referral] (https://ekarttr.github.io/optimize-demo/index.html?utm_source=example.com&utm_medium=referral) 
+This will ensure that only traffic coming from example.com as a referral (assuming the traffic is tagged properly) will be included in the experiment. The final URL that was used to test corresponds to: [URL?utm_source=example.com&utm_medium=referral](https://ekarttr.github.io/optimize-demo/index.html?utm_source=example.com&utm_medium=referral) 
 
 ### Google Analytics audience targeting (Optimize 360 feature)
 <img src="https://github.com/ekarttr/optimize-demo/blob/master/img/img8.gif?raw=true">
@@ -79,7 +77,7 @@ Optimize allows you to:
 2. Deploy the leading variant permanently.
 3. Personalize your website to create the best experience for your visitors.
 
-(Read more)[https://support.google.com/optimize/answer/9112930?hl=en]
+[Read more] (https://support.google.com/optimize/answer/9112930?hl=en) about personalization. 
 
 <img src="https://github.com/ekarttr/optimize-demo/blob/master/img/img10.gif?raw=true">
 
