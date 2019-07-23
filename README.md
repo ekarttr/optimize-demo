@@ -1,4 +1,4 @@
-# Hands-on Experimentation Guide with Google Optimize 
+# Experimentation & Personalization Step-by-step guide with Google Optimize and Google Analytics
 
 1. [Getting started](#getting-started)
 2. [Experimentation](#experimentation)
@@ -7,7 +7,7 @@
 
 The goal of this article is to serve as guide to get you started on Optimize for exprimentation and personalization. For the purpose of the demo I will be using a [demo site](https://ekarttr.github.io/optimize-demo/index.html) that I got my hands on (I don't know who created the demo site, but whoever you are - thank you!) to demonstrate experimentation and personalization using Google Optimize along with Google Analytics.
 
-## Getting Started
+## 1. Getting Started
 
 ### Create an experiment
 <img src="https://github.com/ekarttr/optimize-demo/blob/master/img/img11.png?raw=true">
@@ -18,7 +18,7 @@ An A/B test is a randomized experiment using two or more variants of the same we
 
 <img src="https://github.com/ekarttr/optimize-demo/blob/master/img/img12.png?raw=true">
 
-## Experimentation
+## 2. Experimentation
 
 Before diving into your first experiment you should identify a problem and create a hypothesis that's backed up by data. Start by identifying a problem that you want to solve. [Read more](https://support.google.com/optimize/answer/6211930?hl=en) 
 
@@ -62,7 +62,7 @@ Audience targeting is useful for targeting high-value customers with special off
 ### Launch the experiment
 <img src="https://github.com/ekarttr/optimize-demo/blob/master/img/img5.gif?raw=true">
 
-## Testing and reporting
+## 3. Testing and reporting
 
 To monitor a running experiment or see the results of a concluded experiment, click the Reporting tab at the top of the experiment detail page. You can also view your results in Google Analytics. [Read more](https://support.google.com/optimize/answer/6218117?hl=en) about reporting.
 
@@ -76,7 +76,7 @@ To monitor a running experiment or see the results of a concluded experiment, cl
 ### Reporting in Google Analytics 
 <img src="https://github.com/ekarttr/optimize-demo/blob/master/img/img14.png?raw=true">
 
-## Personalization
+## 4. Personalization
 
 Optimize enables you to run website experiments to determine what converts best with your visitors. Once you discover what's relevant to their interests – and what's most likely to achieve your objectives – Optimize can serve personalized experiences that promote engagement and improve conversions.
 
@@ -91,7 +91,7 @@ Optimize allows you to:
 <img src="https://github.com/ekarttr/optimize-demo/blob/master/img/img10.gif?raw=true">
 
 ### References:
-1. https://support.google.com/optimize/
-2. https://marketingplatform.google.com/about/
+1. Google Optimize Support: https://support.google.com/optimize/
+2. Google Marketing Platform: https://marketingplatform.google.com/about/
 
  
