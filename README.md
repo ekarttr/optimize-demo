@@ -1,4 +1,4 @@
-# Hands-on Experimentation Guide with Google Optimize / Optimize 360
+# Hands-on Experimentation Guide with Google Optimize 
 This is a demo site. It will be used to demonstrate Google Analytics and Optimize for site-testing and personalization. 
 
 Site: https://ekarttr.github.io/optimize-demo/index.html 
