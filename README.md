@@ -36,6 +36,7 @@ Before diving into your first experiment you should identify a problem and creat
 <img src="https://github.com/ekarttr/optimize-demo/blob/master/img/img2.gif?raw=true">
 
 ### Set up objectives
+
 Objectives are an integral part of creating an experiment that determine how your variants perform and inform the statistical model used to pick leaders. Think of objectives as the metrics or activities that your variants are measured against.
 Think of your experiment's objective as "the website functionality you wish to optimize." Common objectives for publishing websites are pageviews and subscriptions, while ecommerce websites tend to use objectives like revenue and conversions.
 [Read more](https://support.google.com/optimize/answer/7018998?hl=en) about objectives here.
@@ -43,6 +44,9 @@ Think of your experiment's objective as "the website functionality you wish to o
 <img src="https://github.com/ekarttr/optimize-demo/blob/master/img/img3.gif?raw=true">
 
 ### Selecting a custom objective
+
+In addition to system and Google Analytics goals, you can create custom objectives directly in Optimize. Custom objectives allow you to create an experiment objective on the fly. Custom objectives are a good option when System objectives and Analytics goals aren't sufficient to measure your experiment.
+
 <img src="https://github.com/ekarttr/optimize-demo/blob/master/img/img13.png?raw=true">
 
 ### Audience targeting using query parameters
@@ -58,13 +62,14 @@ Query parameter 2 = utm_medium, variable = med_var, src_var = referral. This cor
 This will ensure that only traffic coming from example.com as a referral (assuming the traffic is tagged properly) will be included in the experiment. The final URL that was used to test corresponds to: [URL?utm_source=example.com&utm_medium=referral](https://ekarttr.github.io/optimize-demo/index.html?utm_source=example.com&utm_medium=referral) 
 
 ### Google Analytics audience targeting (Optimize 360 feature)
-This feature is only available in Google Optimize 360, [part of Google Marketing Platform](https://marketingplatform.google.com/about/).
+This feature is only available in (Google Optimize 360)[https://support.google.com/optimize/answer/7084762?hl=en&ref_topic=9127821], [part of Google Marketing Platform](https://marketingplatform.google.com/about/).
 
 Audience targeting is useful for targeting high-value customers with special offers and incentives or loyal customers with an email signup. You can target users interested in a specific product category to see if a customized home page increases conversions. You can also create Audiences in Google Analytics for users who have converted recently, who convert frequently, or who spend a lot of time on your website, and then target them from within Optimize. [Read more](https://support.google.com/optimize/answer/6283435?hl=en) about audiences.
 
 <img src="https://github.com/ekarttr/optimize-demo/blob/master/img/img8.gif?raw=true">
 
 ### Launch the experiment
+
 <img src="https://github.com/ekarttr/optimize-demo/blob/master/img/img5.gif?raw=true">
 
 
@@ -74,13 +79,18 @@ Audience targeting is useful for targeting high-value customers with special off
 To monitor a running experiment or see the results of a concluded experiment, click the Reporting tab at the top of the experiment detail page. You can also view your results in Google Analytics. [Read more](https://support.google.com/optimize/answer/6218117?hl=en) about reporting.
 
 ### Test the experiment
+To make sure the expriment is running correctly, you may want to test it using multiple browser instances (incognito mode). Test with the targeting criteria to see if you see different variants. In my case, I am testing with the url parameteres for source=example.com and medium=referral. 
+
 <img src="https://github.com/ekarttr/optimize-demo/blob/master/img/img9.gif?raw=true">
 
 ### Reporting in Optimize
+
 <img src="https://github.com/ekarttr/optimize-demo/blob/master/img/img7.png?raw=true">
+
 <img src="https://github.com/ekarttr/optimize-demo/blob/master/img/img6.png?raw=true">
 
 ### Reporting in Google Analytics 
+
 <img src="https://github.com/ekarttr/optimize-demo/blob/master/img/img14.png?raw=true">
 
 
