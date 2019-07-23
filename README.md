@@ -1,5 +1,11 @@
 # Hands-on Experimentation Guide with Google Optimize 
 
+[1. Basic optimize setup]()
+2. Getting started with an experiment
+3. Creating variants to test
+4. Testing the experiment
+5. Personalization
+
 This is a demo site (https://ekarttr.github.io/optimize-demo/index.html) will be used to demonstrate Google Analytics and Optimize for site-testing and personalization. 
 
 Link Google Analytics and Select objective to optimize
