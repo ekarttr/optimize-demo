@@ -20,7 +20,7 @@ An A/B test is a randomized experiment using two or more variants of the same we
 
 ## Experimentation
 
-Before diving into your first experiment you should identify a problem and create a hypothesis that's backed up by data. Start by identifying a problem that you want to solve. (Read more)[https://support.google.com/optimize/answer/6211930?hl=en] 
+Before diving into your first experiment you should identify a problem and create a hypothesis that's backed up by data. Start by identifying a problem that you want to solve. [Read more](https://support.google.com/optimize/answer/6211930?hl=en) 
 
 ### Create a variant by changing text, editing HTML or even removing links
 
@@ -41,15 +41,15 @@ Before diving into your first experiment you should identify a problem and creat
 
 <img src="https://github.com/ekarttr/optimize-demo/blob/master/img/img4.gif?raw=true">
 
-Query parameter 1 = utm_source, variable = src_var, src_var = example.com
-Sample URL: https://ekarttr.github.io/optimize-demo/index.html?utm_source=example.com 
+Query parameter 1 = utm_source, variable = src_var, src_var = example.com. This corresponds to: 
+[URL?utm_source=example.com](https://ekarttr.github.io/optimize-demo/index.html?utm_source=example.com)
 
-Query parameter 2 = utm_medium, variable = med_var, src_var = referral
-Sample URL: https://ekarttr.github.io/optimize-demo/index.html?utm_medium=referral 
+Query parameter 2 = utm_medium, variable = med_var, src_var = referral. This corresponds to:
+[URL?utm_medium=referral](https://ekarttr.github.io/optimize-demo/index.html?utm_medium=referral) 
 
 This will ensure that only traffic coming from example.com as a referral (assuming the traffic is tagged properly) will be included in the experiment. 
 
-The final URL that was used to test: https://ekarttr.github.io/optimize-demo/index.html?utm_source=example.com&utm_medium=referral 
+The final URL that was used to test corresponds to:: [URL?utm_source=example.com&utm_medium=referral] (https://ekarttr.github.io/optimize-demo/index.html?utm_source=example.com&utm_medium=referral) 
 
 ### Google Analytics audience targeting (Optimize 360 feature)
 <img src="https://github.com/ekarttr/optimize-demo/blob/master/img/img8.gif?raw=true">
