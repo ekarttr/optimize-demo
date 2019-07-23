@@ -70,6 +70,17 @@ The final URL that was used to test: https://ekarttr.github.io/optimize-demo/ind
 <img src="https://github.com/ekarttr/optimize-demo/blob/master/img/img14.png?raw=true">
 
 ## Personalization
+
+Optimize enables you to run website experiments to determine what converts best with your visitors. Once you discover what's relevant to their interests – and what's most likely to achieve your objectives – Optimize can serve personalized experiences that promote engagement and improve conversions.
+
+Optimize allows you to:
+
+1. Test a hypothesis by running website experiments.
+2. Deploy the leading variant permanently.
+3. Personalize your website to create the best experience for your visitors.
+
+(Read more)[https://support.google.com/optimize/answer/9112930?hl=en]
+
 <img src="https://github.com/ekarttr/optimize-demo/blob/master/img/img10.gif?raw=true">
 
 
