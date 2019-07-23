@@ -5,7 +5,7 @@ Site: https://ekarttr.github.io/optimize-demo/index.html
 
 Link Google Analytics and Select objective to optimize
 
-<img src=",,">
+<img src="https://github.com/ekarttr/optimize-demo/blob/master/img/2019-07-23_15-04-26%20(1).gif?raw=true">
 
 
 
