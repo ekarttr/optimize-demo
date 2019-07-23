@@ -22,11 +22,11 @@ An A/B test is a randomized experiment using two or more variants of the same we
 
 Before diving into your first experiment you should identify a problem and create a hypothesis that's backed up by data. Start by identifying a problem that you want to solve. (Read more)[https://support.google.com/optimize/answer/6211930?hl=en] 
 
-### Variant 1: Change text, edit HTML, remove links
+### Create a variant by changing text, editing HTML or even removing links
 
 <img src="https://github.com/ekarttr/optimize-demo/blob/master/img/img1.gif?raw=true">
 
-### Variant 2: Resize and move content 
+### Create a variant by resizing and moving content 
 
 <img src="https://github.com/ekarttr/optimize-demo/blob/master/img/img2.gif?raw=true">
 
