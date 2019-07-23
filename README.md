@@ -2,25 +2,23 @@
 
 1. [Basic optimize setup](#create-variants-you-wish-to-experiment-with)
 2. [Getting started with an experiment](#create-variants-you-wish-to-experiment-with)
-
-[3. Creating variants to test](#create-variants-you-wish-to-experiment-with)
-
-[4. Testing the experiment](#create-variants-you-wish-to-experiment-with)
-[5. Personalization with Google Optimize](#create-variants-you-wish-to-experiment-with)
+3. [Creating variants to test](#create-variants-you-wish-to-experiment-with)
+4. [Testing the experiment](#create-variants-you-wish-to-experiment-with)
+5. [Personalization with Google Optimize](#create-variants-you-wish-to-experiment-with)
 
 
-This is a demo site (https://ekarttr.github.io/optimize-demo/index.html) will be used to demonstrate Google Analytics and Optimize for site-testing and personalization. 
+This is a demo site (https://ekarttr.github.io/optimize-demo/index.html) that will be used to demonstrate experimentation and personalization using Google Optimize along with Google Analytics.
 
-Link Google Analytics and Select objective to optimize
+## Create variants to test
 
-
-## Create Variants you wish to experiment with
-
-### Variant #1: Change text, edit HTML, remove links
+### Variant 1: Change text, edit HTML, remove links
 
 <img src="https://github.com/ekarttr/optimize-demo/blob/master/img/img1.gif?raw=true">
-Variant #2: Resize and move content 
+
+### Variant 2: Resize and move content 
+
 <img src="https://github.com/ekarttr/optimize-demo/blob/master/img/img2.gif?raw=true">
+
 <img src="https://github.com/ekarttr/optimize-demo/blob/master/img/img3.gif?raw=true">
 <img src="https://github.com/ekarttr/optimize-demo/blob/master/img/img4.gif?raw=true">
 <img src="https://github.com/ekarttr/optimize-demo/blob/master/img/img5.gif?raw=true">
